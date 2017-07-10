@@ -21,3 +21,27 @@
         <img src="http://img.shields.io/badge/swift-3.1-brightgreen.svg" alt="Swift 3.1">
     </a>
 </center>
+
+# Download Dependencies
+```swift package fetch```
+
+---
+## Run with Vapor CLI 
+
+### Build Project
+```$ swift build```
+
+### Run Project
+```$ vapor run serve```
+
+---
+## Run with Xcode 
+
+### Generate Xcode Project
+```$ vapor xcode```
+
+### Run Project
+```click on play button```
+
+---
+
